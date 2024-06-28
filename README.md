@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Matos
 
-[!Eduardo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Edum&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Edum&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently Using:
 
